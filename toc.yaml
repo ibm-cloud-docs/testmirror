@@ -1,0 +1,13 @@
+toc:
+  properties:
+    subcollection: testmirror
+    href: /docs/testmirror
+    path: testmirror
+    label: Test of mirror
+
+  entries: 
+  - navgroup: 
+      id: learn
+      topics:
+      - test.md
+
